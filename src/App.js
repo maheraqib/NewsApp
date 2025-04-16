@@ -4,7 +4,7 @@ import News from './Components/News';
 import React, { Component } from 'react'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 export default class App extends Component {
-  pageSize = 10;
+  pageSize = 9;
   render() {
     return (
       
