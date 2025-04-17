@@ -1,3 +1,6 @@
+// Description: This component is a skeleton loader for news articles. It provides a placeholder UI while the actual content is being loaded. The skeleton consists of a card layout with a placeholder image, title, text, and button.
+import React from "react";
+
 const NewsSkeleton = () => {
   return (
     <div className="col-md-4">
